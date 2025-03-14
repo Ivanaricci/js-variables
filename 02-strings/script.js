@@ -11,6 +11,15 @@ console.log(variabile1)
 // un numero, una stringa e un valore booleano.
 // Stampa tutti i valori nella console.
 
+let number = 26;
+console.log(number);
+
+let text = 'Boolean';
+console.log(text);
+
+let bool = true;
+console.log(bool)
+
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
 // e le variabili sopra in modo da stampare correttamente 
 // in console la stringa con il nome completo
